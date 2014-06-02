@@ -10,7 +10,7 @@
     "gulpplugin"
   ],
   "dependencies": {
-    "through": "^2.3.4",
+    "through2": "^0.4.1",
     "gulp-util": "^2.2.5"
   },
   "devDependencies": {
